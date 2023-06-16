@@ -10,7 +10,7 @@ export default function Index() {
       <img width="500" src="/img/bck.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-          Treo
+          MARP
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
       Mallu Adholokam Roleplay is a samp role-playing server with fivem features. 
