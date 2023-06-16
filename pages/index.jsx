@@ -75,7 +75,7 @@ Vote Treo</a>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Support</p>
-                  <p className="text-gray-500 line-clamp-4">With our best teammates, we provide the fastest response to anyone who needs help.</p>
+                  <p className="text-gray-500 line-clamp-4">24/7 staff support</p>
                 </div>
               </div>
           </div>
