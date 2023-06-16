@@ -42,17 +42,6 @@ export default function Index() {
         </div>
       </div>
 
-
-
-      <div className="grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
-          <div className="col-span-4">
-            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Marp" }} />
-            <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "Join Marp and and feel the true rp" }}/>
-            <a href="https://discord.gg/wZ85VkSqN8" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
-              <i className="fab fa-discord mr-2" />Join Discord
-            </a>
-          </div>
-
           <div className="col-span-8 grid grid-cols-1 lg:grid-cols-2 gap-6">
            
               <div>
