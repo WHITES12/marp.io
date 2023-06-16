@@ -33,13 +33,14 @@ export default function Index() {
     </a>
   </Link>
         </div>
+      </div>
 
           <div className="col-span-8 grid grid-cols-1 lg:grid-cols-2 gap-6">
            
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimisation</p>
-                  <p className="text-gray-500 line-clamp-4">With fast and customizable settings specific to your server, A gives you a musical pleasure to the fullest.</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Development</p>
+                  <p className="text-gray-500 line-clamp-4">We have Active Development. Now our server is running smoothly with well customized.</p>
                 </div>
               </div>
               <div>
