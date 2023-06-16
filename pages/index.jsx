@@ -13,7 +13,7 @@ export default function Index() {
           MARP
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-      Mallu Adholokam Roleplay is a samp role-playing server with fivem features. 
+      Mallu Adholokam Roleplay is a samp  role-playing server with fivem features. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
