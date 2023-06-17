@@ -26,14 +26,14 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="Treo is a multipurpose bot for your discord server with Moderation, Fun, Giveaway, Economy, Utility etc... features."
+            content="Mallu Adholokam Roleplay is a fivem based samp Roleplaying server."
           />
           <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="Treo" />
+          <meta property="og:image:alt" content="Marp" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Treo"
+            content="Marp"
           />
           <meta name="theme-color" content="#6108dd" />
           <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
