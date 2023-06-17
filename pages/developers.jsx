@@ -2,7 +2,7 @@ export default function Developers() {
   return (
     <div className="container mx-auto mt-10">
       <div className="flex justify-center">
-        <img className="w-64" src="/img/bck4.png" alt="Background" />
+        <img className="w-64" src="/img/dev.png" alt="Background" />
       </div>
       <h1 className="py-7 text-4xl font-extrabold text-center text-white">
         <i className="fal fa-stars text-amber-400 mr-2" />
