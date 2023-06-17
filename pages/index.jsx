@@ -33,7 +33,6 @@ export default function Index() {
     </a>
   </Link>
         </div>
-      </div>
 
           <div className="col-span-8 grid grid-cols-1 lg:grid-cols-2 gap-6">
            
