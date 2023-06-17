@@ -39,19 +39,13 @@ export default function Index() {
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Development</p>
-                  <p className="text-gray-500 line-clamp-4">We have Active Development. Now our server is running smoothly with well customized.</p>
-                </div>
-              </div>
-              <div>
-                <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Universal</p>
-                  <p className="text-gray-500 line-clamp-4">Treo is a multipurpose bot for your discord server with Moderation, Fun, Giveaway, Economy, Utility etc... features.</p>
+                  <p className="text-gray-500 line-clamp-4">our ongoing efforts in refining and expanding the server through regular updates, new content additions, and community-driven features, all aimed at delivering an immersive and enjoyable role-playing experience for our players.</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Security</p>
-                  <p className="text-gray-500 line-clamp-4">An open source safe bot that you can browse and help us develop(Source code soon).</p>
+                  <p className="text-gray-500 line-clamp-4">We prioritize the implementation of robust security measures in role-playing to protect players' personal information and prevent unauthorized access, fostering a safe and enjoyable role-playing experience for all.</p>
                 </div>
               </div>
               <div>
