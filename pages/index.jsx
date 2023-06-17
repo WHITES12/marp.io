@@ -66,7 +66,6 @@ export default function Index() {
                   <p className="text-3xl text-white font-semibold">Best Rp Server</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to be a part of marp . get a whitelisit and enjoy rp.</p>
                 </div>
-                <img src="https://www.linkpicture.com/q/Capture_449.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
