@@ -12,7 +12,7 @@ export default function Footer() {
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">
                                 <img src="/img/logo2.png" className="rounded-full w-12" />
-                                <p className="font-semibold text-xl text-white">Treo Bot</p>
+                                <p className="font-semibold text-xl text-white">Marp</p>
                             </div>
                             <Menu as="div" className="relative mt-3 inline-block text-left">
                                 <div>
@@ -29,18 +29,6 @@ export default function Footer() {
                                             aria-hidden="true"
                                         />
                                     </Menu.Button>
-<div className="py-1"></div>
-<a href="https://top.gg/bot/1016392200516550736">
-  <img src={"https://top.gg/api/widget/servers/1016392200516550736.svg"}/>
-</a>
-<div className="py-1"></div>
-<a href="https://top.gg/bot/1016392200516550736">
-  <img src={"https://top.gg/api/widget/upvotes/1016392200516550736.svg"}/>
-</a>
-<div className="py-1"></div>
-<a href="https://top.gg/bot/1016392200516550736">
-  <img src={"https://top.gg/api/widget/owner/1016392200516550736.svg"}/>
-</a>
                                 </div>
                             </Menu>
                         
@@ -50,39 +38,32 @@ export default function Footer() {
                             <div>
                                 <Link href="https://top.gg/bot/1016392200516550736/vote">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Vote Bot
+                                        Join Marp community
                                     </a>
                                 </Link>
                             </div>
                             <div>
                                 <a href="https://discord.gg/JaNCZvPxMQ" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Support Server
+                                    Support our Server
                                 </a>
                             </div>
                             <div>
                                 <a href="https://discord.com/api/oauth2/authorize?client_id=1016392200516550736&permissions=2146958591&scope=bot%20applications.commands" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Invite Bot
+                                    Invite Your Friends
                                 </a>
                             </div>
                         </div>
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Social</p>
                             <div>
-                                <Link href="https://discord.gg/JaNCZvPxMQ">
+                                <Link href="https://discord.gg/wZ85VkSqN8">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-discord`} /> Disocrd 
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://github.com/devanshyadav2010">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-github`} /> GitHub 
-                                    </a>
-                                </Link>
-                            </div>
-                            <div>
-                                <Link href="https://youtube.com/deviladamgaming">
+                                <Link href="https://youtube.com/@wantedchandranvaat9636">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-youtube`} /> YouTube 
                                     </a>
@@ -109,11 +90,11 @@ export default function Footer() {
                     </div>
                     <div className="mt-10 grid content-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
                         <p className="text-white text-center sm:text-left text-opacity-50">
-                            {new Date().getFullYear()} &copy; Treo
+                            {new Date().getFullYear()} &copy; Marp
                         </p>
                         <div className="hidden md:flex items-center justify-center">
-                                <p className={"text-xs text-green-400"}>
-                                    Bot Online
+                                <p className={"text-xs text-blue-400"}>
+                                    Credits by Whites
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
