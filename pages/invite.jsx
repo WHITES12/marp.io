@@ -1,6 +1,6 @@
 import { useRouter } from 'next/router';
 
-export default async function join() {
+export default async function invite() {
   // function body
 
   const router = useRouter();
