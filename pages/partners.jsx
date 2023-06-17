@@ -18,9 +18,9 @@ export default function Partners() {
             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://discord.gg/MYxwrfNyx2">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-42 w-42" src="/img/mod.png" />
+                            <img className="rounded-full h-35 w-35" src="/img/mod.png" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">Mallu Samp Modding</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Masm</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                         
