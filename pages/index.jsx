@@ -38,7 +38,7 @@ export default function Index() {
            
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Development</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-code text-2xl text-amber-500`} /> Development</p>
                   <p className="text-gray-500 line-clamp-4">our ongoing efforts in refining and expanding the server through regular updates, new content additions, and community-driven features, all aimed at delivering an immersive and enjoyable role-playing experience for our players.</p>
                 </div>
               </div>
