@@ -11,14 +11,14 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="Treo is a multipurpose bot for your discord server with Moderation, Fun, Giveaway, Economy, Utility etc... features."
+            content="Mallu Adholokam Roleplay is a fivem based samp Roleplaying server."
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@TreoDiscordBot" />
           <meta name="twitter:creator" content="@TreoDiscordBot" />
-          <meta property="og:url" content="https://treoweb.vercel.app" />
+          <meta property="og:url" content="https://marp-io.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Treo" />
+          <meta property="og:title" content="Marp" />
           <link
             rel="icon"
             href="/img/logo2.png"
